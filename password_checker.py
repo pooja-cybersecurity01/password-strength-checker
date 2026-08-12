@@ -2,7 +2,7 @@ import string
 from getpass import getpass
 password= getpass("Enter your password: ")
 
-password = input("Enter your password: ")
+
 
 score = 0
 
