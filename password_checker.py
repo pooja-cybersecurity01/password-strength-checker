@@ -27,7 +27,7 @@ elif score <= 4:
     print("Password Strength: Medium")
 else:
     print("Password Strength: Strong")
-password= getpass("Enter your password: ")
+
 print("\nPassword Requirements:")
 print("- At least 8 characters")
 print("- One uppercase letter")
